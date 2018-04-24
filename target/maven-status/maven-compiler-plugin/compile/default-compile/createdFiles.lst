@@ -1,0 +1,12 @@
+es/tase/wps/model/Process.class
+es/tase/wps/services/ProcessAlreadyExistException.class
+es/tase/wps/processors/DeleteProcessProcessor.class
+es/tase/wps/App.class
+es/tase/wps/services/ProcessNotExistException.class
+es/tase/wps/services/ProcessService.class
+es/tase/wps/model/FaasProcess.class
+es/tase/wps/model/FaasProcess$Delete.class
+es/tase/wps/model/FaasProcessInstance.class
+es/tase/wps/processors/CreateProcessProcessor.class
+es/tase/wps/Routes.class
+es/tase/wps/processors/StartProcessProcessor.class

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" sourcepath="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-core/2.21.0/camel-core-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-core/2.3.0/jaxb-core-2.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.3.0/jaxb-impl-2.3.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-spark-rest/2.21.0/camel-spark-rest-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sparkjava/spark-core/2.7.1/spark-core-2.7.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-server/9.4.6.v20170531/jetty-server-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-http/9.4.6.v20170531/jetty-http-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-util/9.4.6.v20170531/jetty-util-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-io/9.4.6.v20170531/jetty-io-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-webapp/9.4.6.v20170531/jetty-webapp-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-xml/9.4.6.v20170531/jetty-xml-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-servlet/9.4.6.v20170531/jetty-servlet-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-security/9.4.6.v20170531/jetty-security-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-server/9.4.6.v20170531/websocket-server-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-common/9.4.6.v20170531/websocket-common-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-api/9.4.6.v20170531/websocket-api-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-client/9.4.6.v20170531/websocket-client-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-client/9.4.6.v20170531/jetty-client-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/websocket/websocket-servlet/9.4.6.v20170531/websocket-servlet-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jetty/2.21.0/camel-jetty-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jetty9/2.21.0/camel-jetty9-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-http-common/2.21.0/camel-http-common-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-servlets/9.4.6.v20170531/jetty-servlets-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-continuation/9.4.6.v20170531/jetty-continuation-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/eclipse/jetty/jetty-jmx/9.4.6.v20170531/jetty-jmx-9.4.6.v20170531.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jetty-common/2.21.0/camel-jetty-common-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-http4/2.21.0/camel-http4-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" sourcepath="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.10/commons-codec-1.10.jar" sourcepath="M2_REPO/commons-codec/commons-codec/1.10/commons-codec-1.10-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-swagger-java/2.21.0/camel-swagger-java-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.8.10/jackson-annotations-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.8.10/jackson-databind-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.8.10/jackson-core-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-joda/2.8.10/jackson-datatype-joda-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/joda-time/joda-time/2.7/joda-time-2.7.jar" sourcepath="M2_REPO/joda-time/joda-time/2.7/joda-time-2.7-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.8.10/jackson-dataformat-yaml-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.8.10/jackson-dataformat-xml-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.10/jackson-module-jaxb-annotations-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar" sourcepath="M2_REPO/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.8.10/jackson-jaxrs-json-provider-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.8.10/jackson-jaxrs-base-2.8.10.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/google/guava/guava/20.0/guava-20.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/swagger/swagger-core/1.5.17/swagger-core-1.5.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/swagger/swagger-models/1.5.17/swagger-models-1.5.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/swagger/swagger-annotations/1.5.17/swagger-annotations-1.5.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/swagger/swagger-jaxrs/1.5.17/swagger-jaxrs-1.5.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/reflections/reflections/0.9.11/reflections-0.9.11.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar"/>
+  <classpathentry kind="var" path="M2_REPO/io/swagger/swagger-parser/1.0.33/swagger-parser-1.0.33.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-ext/1.6.3/slf4j-ext-1.6.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/ch/qos/cal10n/cal10n-api/0.7.4/cal10n-api-0.7.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/hazelcast/hazelcast-client/3.9.3/hazelcast-client-3.9.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/hazelcast/hazelcast/3.9.3/hazelcast-3.9.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jackson/2.21.0/camel-jackson-2.21.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-api/2.11.0/log4j-api-2.11.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-core/2.11.0/log4j-core-2.11.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/logging/log4j/log4j-slf4j-impl/2.11.0/log4j-slf4j-impl-2.11.0.jar"/>
+</classpath>
